@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ibhavna
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning and exploring various functionalities of python.
+- 🌱 I’m currently learning and exploring various functionalities and implementation areas of python.
 - 💞️ I’m looking to collaborate on challenging projects.
-- 📫 How to reach me - Get in touch via Linkdin
+- 📫 How to reach me - Get in touch via LinkdIn. You may search my name :))
 
 <!---
 ibhavna/ibhavna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
